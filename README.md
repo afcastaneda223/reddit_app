@@ -35,7 +35,3 @@ Give a ⭐️ if you like this project!
 
 - Microverse
 - Everyone else
-
-## 📝 License
-
-Distributed by the GNU General Public License. See `LICENSE` for more information.
