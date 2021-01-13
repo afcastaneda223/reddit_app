@@ -2,7 +2,6 @@
 
 > This is a Reddit Clone made with Ror using the MVC structure.
 
-
 ## Built With
 
 - Ruby
